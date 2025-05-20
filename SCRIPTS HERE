@@ -4,7 +4,7 @@
     ["Blox Fruits"] = "loadstring(game:HttpGet('https://raw.githubusercontent.com/420bigj/Blox-Fruits-Scripts/main/Main.lua', true))()",
     ["Pet Simulator X"] = "loadstring(game:HttpGet('https://raw.githubusercontent.com/CriShoux/Pet-Simulator-X/main/main.lua', true))()",
     ["Arsenal"] = "loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source', true))()",
-    ["Doors"] = "loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source', true))()", -- no dedicated Doors script but Infinite Yield is a good general hub
+    ["Doors"] = "loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source', true))()", -- not really a doors script but inf yeild is basically a admin script, and ill be replacing any game scripts that i cant find with inf yeild.
     ["Brookhaven"] = "loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source', true))()",
     ["Murder Mystery 2"] = "loadstring(game:HttpGet('https://pastebin.com/raw/1M6iXWQ1', true))()",
     ["Da Hood"] = "loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source', true))()",
