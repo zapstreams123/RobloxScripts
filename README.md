@@ -1,7 +1,5 @@
 # NOTICE
 
----- IMPORTANT ----
-
 This repository contains a bunch of scripts for a variety of Roblox games.
 
 > ⚠️ **Disclaimer:**
